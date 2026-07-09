@@ -1,0 +1,8 @@
+#ifndef SCENIC_GRAPH_H
+#define SCENIC_GRAPH_H
+
+#define MAX_SCENIC_SPOTS 32
+#define MAX_SCENIC_NAME 64
+#define GRAPH_NO_PATH 999999
+
+#endif
