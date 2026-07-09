@@ -1,0 +1,12 @@
+﻿# Build outputs
+scenic_matrix
+scenic_matrix.exe
+*.o
+*.obj
+*.exe
+
+# IDE / OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
