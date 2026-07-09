@@ -1,3 +1,10 @@
 build/
+scenic_matrix
+scenic_matrix.exe
 *.exe
 *.o
+*.obj
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

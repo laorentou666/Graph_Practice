@@ -5,7 +5,7 @@ if (-not (Test-Path "build")) {
 }
 
 gcc -std=c11 -Wall -Wextra -pedantic -Iinclude `
-    src/main.c src/adj_list_graph.c src/adj_matrix_graph.c `
+    src/main.c src/adj_list_graph.c src/graph_matrix.c `
     -o build/graph_practice.exe
 
 Write-Host "Built build/graph_practice.exe"
